@@ -121,10 +121,10 @@ class RandomUnit(mapData: MapData, tileVerIdx: Int, tileHolIdx: Int, protected v
     }
 
     //== 次に進む方向
-    val nextDirection = Direction.atNumber(new Random().nextInt(movableDirectionList.length))
+    val nextDirection = movableDirectionList(new Random().nextInt(movableDirectionList.length))
 
     //== 移動添字を取得
-    val dIndex = nextDirectionIndex(nextDirection)
+    val dIndex = nextDirectionIndex(Some(nextDirection))
 
     currentTile = mapData.getTileIndex(previousTile) match {
       case Some((ver, hol)) => mapData.tiles(ver + dIndex._1)(hol + dIndex._2)
