@@ -1,0 +1,17 @@
+assembly
+sbt assembly
+assembly
+help
+version
+assembly
+reload
+assembly
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/YU-YA/AppData/Local/Temp/sbt-structure.xml; session clear-all
+assembly
+sbt -v
+sbt --version
+--version
+version
+sbt-version
+console
+about

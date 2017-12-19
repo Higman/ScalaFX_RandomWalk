@@ -1,0 +1,28 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set(C:\Users\YU-YA\univ_kagawa\SLP\Programming\Scala\ScalaFX_RandomWalk\src\main\scala\application\component\Direction.scala, C:\Users\YU-YA\univ_kagawa\SLP\Programming\Scala\ScalaFX_RandomWalk\src\main\scala\application\component\MapData.scala, C:\Users\YU-YA\univ_kagawa\SLP\Programming\Scala\ScalaFX_RandomWalk\src\main\scala\application\component\units\RandomUnit.scala, C:\Users\YU-YA\univ_kagawa\SLP\Programming\Scala\ScalaFX_RandomWalk\src\main\scala\application\component\units\DirectionOfRandomUnit.scala, C:\Users\YU-YA\univ_kagawa\SLP\Programming\Scala\ScalaFX_RandomWalk\src\main\scala\application\component\tiles\Tile.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(C:\Users\YU-YA\univ_kagawa\SLP\Programming\Scala\ScalaFX_RandomWalk\src\main\scala\application\controller\RandomWalkController.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(C:\Users\YU-YA\univ_kagawa\SLP\Programming\Scala\ScalaFX_RandomWalk\target\scala-2.12\classes\application\AppLauncher$delayedInit$body.class, C:\Users\YU-YA\univ_kagawa\SLP\Programming\Scala\ScalaFX_RandomWalk\target\scala-2.12\classes\application\AppLauncher$.class, C:\Users\YU-YA\univ_kagawa\SLP\Programming\Scala\ScalaFX_RandomWalk\target\scala-2.12\classes\application\controller\RandomWalkController.class, C:\Users\YU-YA\univ_kagawa\SLP\Programming\Scala\ScalaFX_RandomWalk\target\scala-2.12\classes\application\AppLauncher.class, C:\Users\YU-YA\univ_kagawa\SLP\Programming\Scala\ScalaFX_RandomWalk\target\scala-2.12\classes\application\AppLauncher$$anon$1.class, C:\Users\YU-YA\univ_kagawa\SLP\Programming\Scala\ScalaFX_RandomWalk\target\scala-2.12\classes\application\controller\RandomWalkController$.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(application.controller.RandomWalkController)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(C:\Users\YU-YA\univ_kagawa\SLP\Programming\Scala\ScalaFX_RandomWalk\src\main\scala\application\controller\RandomWalkController.scala, C:\Users\YU-YA\univ_kagawa\SLP\Programming\Scala\ScalaFX_RandomWalk\src\main\scala\application\AppLauncher.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 7 sources: invalidated sources (7) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 7 Scala sources to C:\Users\YU-YA\univ_kagawa\SLP\Programming\Scala\ScalaFX_RandomWalk\target\scala-2.12\classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.0.5:compile for Scala 2.12.4[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.0.5:compile for Scala 2.12.4[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 2fe717b9 for Scala compiler version 2.12.4[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-Xplugin:C:\Users\YU-YA\.ivy2\cache\org.scalamacros\paradise_2.12.4\jars\paradise_2.12.4-2.1.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Program Files\Java\jdk1.8.0_151\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_151\jre\classes;C:\Users\YU-YA\.sbt\boot\scala-2.12.4\lib\scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\YU-YA\univ_kagawa\SLP\Programming\Scala\ScalaFX_RandomWalk\target\scala-2.12\classes;C:\Users\YU-YA\.ivy2\cache\org.scalafx\scalafx_2.12\jars\scalafx_2.12-8.0.144-R12.jar;C:\Users\YU-YA\.sbt\boot\scala-2.12.4\lib\scala-reflect.jar;C:\Users\YU-YA\.ivy2\cache\org.scalafx\scalafxml-core-sfx8_2.12\jars\scalafxml-core-sfx8_2.12-0.4.jar;C:\Users\YU-YA\.ivy2\cache\org.scalafx\scalafxml-core-macros-sfx8_2.12\jars\scalafxml-core-macros-sfx8_2.12-0.4.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 5.71638363 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
