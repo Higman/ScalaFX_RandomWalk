@@ -1,6 +1,6 @@
 # 概要
 
-ScalaFXのランダムウォークアプリケーション。
+[ScalaFXでランダムウォーク](http://hgmn-b.hatenablog.com)で紹介した**ScalaFXのランダムウォークアプリケーション**。
 
 # 操作方法
 
